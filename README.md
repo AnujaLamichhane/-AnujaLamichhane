@@ -32,6 +32,14 @@ Other Skills: API Integration, Payment Gateways
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+GitHub Stats
+
+![Anuja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnujaLamichhane&show_icons=true&theme=gruvbox)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnujaLamichhane&theme=gruvbox)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Connect with Me
 
 www.linkedin.com/in/anujalc
